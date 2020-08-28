@@ -1,0 +1,1 @@
+worker: python rin_bot.py
